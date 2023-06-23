@@ -2,7 +2,7 @@
 
 ## Installation
 
-Node > v16.19.1
+- Node > v16.19.1
 Yarn v1.x.x
 
 ```bash
@@ -20,5 +20,12 @@ yarn dev # http://localhost:4000
 
 ```bash
 yarn test
+
+```
+
+## Build static 
+
+```bash
+yarn build # build export to /dist
 
 ```
